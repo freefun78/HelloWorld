@@ -1,0 +1,7 @@
+<resources>
+
+    <string name="app_name">Apa Kabar</string>
+    <string name="hello_world">Apa Kabar Dunia!</string>
+    <string name="action_settings">Konfigurasi</string>
+
+</resources>
